@@ -1,6 +1,4 @@
 # 03-computational-modeling-of-buoyancy-driven-flow
-# Computational Modelling of Buoyancy Driven Flow
-
 **Daisy Wang | University of Cambridge | May 2012**
 
 ## Summary
